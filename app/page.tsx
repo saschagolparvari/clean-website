@@ -510,7 +510,17 @@ export default function Home() {
         </div>
 
         <div className="mx-auto mt-10 max-w-7xl border-t border-slate-200 px-6 pt-6 text-sm text-slate-500">
-          © 2026 Clean Service Gashi. Alle Rechte vorbehalten.
+          
+<p>
+  © 2026 Clean Service Gashi. Alle Rechte vorbehalten.
+</p>
+<a
+  href="/impressum"
+  className="mt-3 inline-block text-teal-700 hover:underline"
+>
+  Impressum
+</a>
+
         </div>
       </footer>
     </main>
