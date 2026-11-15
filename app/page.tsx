@@ -519,7 +519,14 @@ export default function Home() {
   className="mt-3 inline-block text-teal-700 hover:underline"
 >
   Impressum
+  </a> 
+<a
+  href="/datenschutz"
+  className="ml-4 inline-block text-teal-700 hover:underline"
+>
+  Datenschutz
 </a>
+
 
         </div>
       </footer>
